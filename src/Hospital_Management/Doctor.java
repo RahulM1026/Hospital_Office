@@ -5,7 +5,7 @@ class Doctortemp{
     String did, dname, specilist, appoint, doc_qual;
     int droom;
     
-    //developped the comments in doctor program 
+    //developed the comments in doctor program 
     @SuppressWarnings({ "resource" })
 	void new_doctor()
     {
