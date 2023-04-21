@@ -6,6 +6,7 @@ class Doctortemp{
     int droom;
     
     //developed the comments in doctor program 
+    
     @SuppressWarnings({ "resource" })
 	void new_doctor()
     {
